@@ -1,7 +1,9 @@
 # 🛡️ ISC2 Certified in Cybersecurity (CC) – Study Repository
 
-Welcome to my ISC2 Certified in Cybersecurity (CC) study hub! This repository is designed to help learners prepare for the **entry-level cybersecurity certification** offered by [ISC2](https://www.isc2.org/Certifications/CC). Whether you're just starting out or brushing up on fundamentals, this repo provides structured notes, resources, and practice tools aligned with the official exam domains.
+Welcome to my ISC2 Certified in Cybersecurity (CC) study hub! This repository is designed  for the **entry-level cybersecurity certification** offered by [ISC2
+aligned with the official exam domains.
 
+ 
 ---
 
 ## 📚 What’s Inside
@@ -12,15 +14,9 @@ Welcome to my ISC2 Certified in Cybersecurity (CC) study hub! This repository is
 - 🌐 **Domain 4: Network Security** (%)
 - 🧭 **Domain 5: Security Operations** (%)
 
-Each domain folder includes:
-- 📄 Summary notes
-- 🧠 Flashcards & key terms
-- 🧪 Practice questions
-- 📊 Diagrams & cheat sheets
-
 ---
 **🎓**HERE IS THE ATTACHED CERTIFICATE PER DOMAIN
-
+(https://www.isc2.org/Certifications/CC)
 - https://drive.google.com/drive/folders/1ligNiflTAAN7__RAMBb0JExFWe7OjfNN?usp=drive_link
 
 
