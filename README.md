@@ -6,7 +6,7 @@ Welcome to my ISC2 Certified in Cybersecurity (CC) study hub! This repository is
 
 ## 📚 What’s Inside
 
-- ✅ **Domain 1: Security Principles** (%)
+- ✅ **Domain 1: Security Principles** (76%)
 - 🔄 **Domain 2: Business Continuity, Disaster Recovery & Incident Response** (%)
 - 🔐 **Domain 3: Access Control Concepts** (%)
 - 🌐 **Domain 4: Network Security** (%)
@@ -19,6 +19,10 @@ Each domain folder includes:
 - 📊 Diagrams & cheat sheets
 
 ---
+**🎓**HERE IS THE ATTACHED CERTIFICATE PER DOMAIN
+
+- https://drive.google.com/drive/folders/1ligNiflTAAN7__RAMBb0JExFWe7OjfNN?usp=drive_link
+
 
 ## 🧠 Why This Repo?
 
@@ -59,5 +63,3 @@ Pull requests are welcome! If you have better explanations, diagrams, or practic
 
 This project is licensed under the MIT License. Feel free to use, modify, and share with proper attribution.
 
----
--
