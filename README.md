@@ -60,9 +60,4 @@ Pull requests are welcome! If you have better explanations, diagrams, or practic
 This project is licensed under the MIT License. Feel free to use, modify, and share with proper attribution.
 
 ---
-
-
----
-
-If you'd like, I can help you customize this further with badges, visuals, or even a GitHub Pages site to make it interactive. Want to add a quiz section or flashcard generator next?
 -
